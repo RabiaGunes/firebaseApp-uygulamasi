@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/sorgu_1" android:title="sorgu 1">
+    </item>
+    <item android:id="@+id/sorgu_2" android:title="sorgu 2">
+    </item>
+    <item android:id="@+id/sorgu_3" android:title="sorgu 3">
+    </item>
+</menu>
